@@ -55,11 +55,6 @@ table.cal>th, td{
     background-color: #ffd180;
 }
 
-.webApp{
-    margin: 0;
-    padding: 0;
-    background-color: #a5d6a7;
-}
 
 span{
     display: block;
@@ -70,6 +65,12 @@ span{
 
 td:active > span {
     visibility: visible;
+}
+
+.webApp{
+    margin: 0;
+    padding: 0;
+    background-color: #a5d6a7;
 }
 
 .tutoria{
